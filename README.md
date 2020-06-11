@@ -1,6 +1,6 @@
 Progress
 ---
-<br>
+
 - [x] Question 1  | Level 1
 
 Done, pushed to ---> [`1.py`](https://github.com/crazyuploader/Python/blob/master/Practice/1.py)
