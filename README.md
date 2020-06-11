@@ -1,7 +1,7 @@
 Progress
 ---
 
-- [ ] Question 1  | Level 1
+- [x] Question 1  | Level 1
 - [ ] Question 2  | Level 1
 - [ ] Question 3  | Level 1
 - [ ] Question 4  | Level 1
