@@ -1,7 +1,9 @@
 Progress
 ---
 
-- [x] Question 1  | Level 1 | Done, pushed to ---> [`1.py`](https://github.com/crazyuploader/Python/blob/master/Practice/1.py)
+- [x] Question 1  | Level 1
+
+**Done, pushed to ---> [`1.py`](https://github.com/crazyuploader/Python/blob/master/Practice/1.py)**
 - [ ] Question 2  | Level 1
 - [ ] Question 3  | Level 1
 - [ ] Question 4  | Level 1
