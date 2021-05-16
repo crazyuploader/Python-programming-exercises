@@ -1,7 +1,6 @@
-Progress
----
+## Progress
 
-- [x] Question 1  | Level 1
+- [x] Question 1 | Level 1
 
 Question:
 
@@ -19,7 +18,8 @@ for i in range(2000, 3201):
         number.append(str(i))
 print(",".join(number))
 ```
-- [x] Question 2  | Level 1
+
+- [x] Question 2 | Level 1
 
 Question:
 
@@ -44,7 +44,10 @@ print("\nEnter a number: ")
 number = int(input())
 print("\nFactorial of {0} is = {1}".format(number, fact(number)))
 ```
+
 - [x] Question 3  | Level 1
+
+Question:
 
 With a given integral number n, write a program to generate a dictionary that contains (i, i*i) such that is an integral number between 1 and n (both included). and then the program should print the dictionary.
 Suppose the following input is supplied to the program:
@@ -72,10 +75,30 @@ else:
     print("Integer should be greater than 1!")
 ```
 
-- [ ] Question 4  | Level 1
-- [ ] Question 5  | Level 1
-- [ ] Question 6  | Level 2
-- [ ] Question 7  | Level 2
-- [ ] Question 8  | Level 2
-- [ ] Question 9  | Level 2
+- [x] Question 4 | Level 1
+
+Question:
+
+Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.
+Suppose the following input is supplied to the program:
+34,67,55,33,12,98
+Then, the output should be:
+['34', '67', '55', '33', '12', '98']
+('34', '67', '55', '33', '12', '98')
+
+Solution:
+
+```
+values = input("Enter Numbers: ")
+li = values.split(",")
+tu = tuple(li)
+print(li)
+print(tu)
+```
+
+- [ ] Question 5 | Level 1
+- [ ] Question 6 | Level 2
+- [ ] Question 7 | Level 2
+- [ ] Question 8 | Level 2
+- [ ] Question 9 | Level 2
 - [ ] Question 10 | Level 2
